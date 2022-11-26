@@ -10,7 +10,7 @@ import {
   World,
 } from "../sections";
 
-const Home = () => (
+const Page = () => (
   <div>
     <Navbar />
     <Hero />
@@ -25,4 +25,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default Page;
